@@ -1,5 +1,5 @@
 - name: Download Tomcat9 from tomcat.apache.org
-  hosts: Tomcat
+  hosts: tomcat
   become: yes
 
   tasks:
